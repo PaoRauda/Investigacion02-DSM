@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Investigacio02</string>
+    <string name="txt_post_body">cuerpo del post</string>
+    <string name="txt_post_title">Titulo del post</string>
+    <string name="btn_add_post">Añadir Post</string>
+    <string name="btnRefresh">Refrescar listado</string>
+</resources>

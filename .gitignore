@@ -1,0 +1,11 @@
+# Ignorar la carpeta investigacion02 que contiene archivos de configuración
+/investigacion02/*.iml
+/investigacion02/.gradle
+/investigacion02/local.properties
+/investigacion02/.idea/
+.investigacion02/.DS_Store
+/investigacion02/build/
+.investigacion02/captures/
+.investigacion02/.externalNativeBuild/
+.investigacion02/.cxx/
+.investigacion02/local.properties
