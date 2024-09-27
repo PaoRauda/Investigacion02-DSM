@@ -9,4 +9,4 @@
 - Fernando Ernesto Urrutia Vaquero UV230171
 
 ### LINKS:
-- [Link Video](https://drive.google.com/file/d/1MBYCjG0mcz43W6ZlwB25L6e9wVTAulfs/view?usp=drive_link)
+- [Link Video](https://drive.google.com/file/d/1MBYCjG0mcz43W6ZlwB25L6e9wVTAulfs/view?usp=sharing)
